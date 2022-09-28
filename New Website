@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tabitha Vinger</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon (3).ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="Top-Container">
+      <img class="top-cloud"src="images/cloud.png" alt="cloud-img.">
+      <h1>I'm Tabitha</h1>
+      <h2>a <span class="pro">pro</span>grammer</h2>
+      <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+      <img src="images/mountain.png" alt="mountain-img">
+
+        <div class="middle-container">
+
+
+        <div class="profile">
+
+          </div>
+          <img src="Images/12-14-20_3_2_200x200.png"class="Profile">
+          <h2>Hello.</h2>
+          <p class="Introduction">I am a wife to a wonderful husband and a mother to three amazing children</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>My Skills.</h2>
+          <div class="skill-row">
+            <img class="People-Skills" src="images/200w.webp" alt="People Skills">
+            <h3>  People Skills</h3>
+            <p>My family is very musical and I have always had a love of singing. However, I have an awful bout of stage fright that keeps me from performing most of the time</p>
+          </div>
+          <div class="skill-row">
+            <img class="Organization" src="images/OCD.webp" alt="OCD">
+            <h3>Organization</h3>
+            <p>I believe everything has a place of its own and I like to make sure they find it</p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3>If you're a nerd like me</h3>
+          <p>If you enjoy helping others and organization, let's be friends!</p>
+          <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
+        </div>
+      </div>
+
+
+      <div class="bottom-container">
+        <a class="footer-link" href="https://www.facebook.com/tabby.vinger">Facebook</a>
+        <a class="footer-link" href="https://twitter.com/TabithaVinger">Twitter</a>
+        <p class="copyright">© Tabitha Vinger</p>
+      </div>
+
+
+  </body>
+</html>
